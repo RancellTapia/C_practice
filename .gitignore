@@ -1,6 +1,10 @@
+
 *
+!*/*.*
 !*/
-!*.*
-!*/*
+# !*.*
+# !*/*
 tasks.json
 Info.plist
+*.yml
+*.DS_Store
